@@ -1,0 +1,20 @@
+{
+  "identifier" : "Boxlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "boxlog_pro",
+      "localizations" : [
+        { "description" : "Combo library and round-volume trend charts", "displayName" : "Boxlog Pro", "locale" : "en_US" }
+      ],
+      "productID" : "com.shimondeitel.boxlog.pro",
+      "referenceName" : "Boxlog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
