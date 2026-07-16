@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BoxlogTests
-      - path: Boxlog.storekit
     dependencies:
       - target: Boxlog
     settings:
